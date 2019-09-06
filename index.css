@@ -23,10 +23,10 @@ header div.logo {
 }
 
 div.menu {
+
 }
 
 .menu nav.nav {
-
 }
 
 .nav ul {
@@ -35,6 +35,13 @@ div.menu {
 
 
 .nav ul li {
+  padding: 0 2em;
+  list-style: none;
+}
 
+.nav ul li a {
+  text-decoration: none;
+  font-family: var(--fuenteSecundaria);
+  font-size: 1.2em;
 }
 
