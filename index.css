@@ -1,0 +1,8 @@
+:root {
+  --fuentePrimaria: 'Alegreya', serif;
+  --fuenteSecundaria: 'Merriweather Sans', sans-serif;
+}
+
+body {
+  font-family: var(--fuentePrimaria);
+}
