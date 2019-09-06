@@ -8,15 +8,13 @@ body {
 }
 
 header {
-
+  display: flex;
 }
 
 header div.logo {
-
 }
 
 div.menu {
-
 }
 
 .menu nav.nav {
@@ -24,7 +22,7 @@ div.menu {
 }
 
 .nav ul {
-  
+  display: flex;
 }
 
 
