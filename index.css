@@ -19,6 +19,7 @@ header div.logo {
   font-family: var(--fuenteSecundaria);
   font-size: 2.5em;
   margin: 0;
+  margin-left: 4em;
 }
 
 div.menu {
