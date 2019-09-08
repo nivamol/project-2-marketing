@@ -53,5 +53,6 @@ div.menu {
 .nav ul li a:hover {
   color: #007B5B;
   transition-duration: 1s;
+  text-decoration: underline;
 }
 
