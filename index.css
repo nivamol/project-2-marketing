@@ -64,7 +64,7 @@ section.hero {
   grid-template: repeat(2, 1fr) / repeat(3, 1fr);
   height: 90vh;
   grid-gap: 2em;
-  margin-top: 2em;
+  margin: 2em 0;
 }
 
 .hero div.cards {
@@ -82,10 +82,12 @@ div > img {
 div > h3 {
   font-size: 1.5em;
   font-family: var(--fuentePrimaria);
+  padding: 0 1em;
 }
 
 div > p {
   font-family: var(--fuenteSecundaria);
   font-size: 1em;
   margin-top: 3em;
+  padding: 0 1em;
 }
