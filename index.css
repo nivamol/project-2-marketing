@@ -60,7 +60,9 @@ div.menu {
 /*section hero*/
 
 section.hero {
-
+  display: grid;
+  grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+  height: 90vh;
 }
 
 .hero div.cards {
@@ -76,5 +78,5 @@ section.hero {
 }
 
 .cards p {
-  
+
 }
