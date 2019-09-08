@@ -69,16 +69,16 @@ section.hero {
 .hero div.cards {
   border: 1px solid black;
   border-radius: 20px;
+  height: 500px;
 }
 
-.cards img {
-
+div > h3 {
+  font-size: 1.5em;
+  font-family: var(--fuentePrimaria);
 }
 
-.cards h3 {
-
-}
-
-.cards p {
-
+div > p {
+  font-family: var(--fuenteSecundaria);
+  font-size: 1em;
+  margin-top: 3em;
 }
