@@ -21,6 +21,7 @@ header div.logo {
   margin: 0;
   margin-left: 4em;
   margin: .3em 0 0 2.5em;
+  color: white;
 }
 
 div.menu {
@@ -44,5 +45,11 @@ div.menu {
   text-decoration: none;
   font-family: var(--fuenteSecundaria);
   font-size: 1.2em;
+  color: white;
+}
+
+.nav ul li a:hover {
+  color: #007B5B;
+  transition-duration: 1s;
 }
 
