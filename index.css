@@ -63,10 +63,12 @@ section.hero {
   display: grid;
   grid-template: repeat(2, 1fr) / repeat(3, 1fr);
   height: 90vh;
+  grid-gap: 2em;
 }
 
 .hero div.cards {
-
+  border: 1px solid black;
+  border-radius: 20px;
 }
 
 .cards img {
